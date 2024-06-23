@@ -8,6 +8,7 @@ Create Trainer: Users can create their own Pokemon trainers with unique names.
 Catch Pokemon: Trainers can catch wild Pokemon with randomized attributes such as HP (Health Points) and power.
 Train Pokemon: Trainers can train their Pokemon to increase their strength and HP.
 Battle System: Trainers can engage in battles with other trainers' Pokemon, simulating turn-based combat.
+
 Installation:
 Clone the repository:
 bash
@@ -21,6 +22,7 @@ css
 Copy code
 python main.py
 Usage:
+
 Creating Trainer:
 Use the create_trainer command to create a new trainer. Example: /create_trainer Ash
 Catching Pokemon:
